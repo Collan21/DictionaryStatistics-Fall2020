@@ -13,8 +13,8 @@ Given an array of strings, this program can calculate: the minimum, maximum, ran
 - Word Length Mode
 ---
 ## Usage
-#### Sample Input: {"Camel", "Dog", "Fish", "Horse",
-                    "Lion", "Monkey", "Panda", "Zebra"}
+#### Sample Input:
+{"Camel", "Dog", "Fish", "Horse", "Lion", "Monkey", "Panda", "Zebra"}
 #### Sample Output:
 ```
 Minimum word length: 3
